@@ -1,4 +1,4 @@
-To run, ensure the relevant dependencies are installed, then type in the console:
+To run, ensure the relevant dependencies are installed and the database is ready, then type in the console:
 
 "streamlit run q1.py"
 
